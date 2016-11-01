@@ -15,6 +15,11 @@
       <typeSet uuid="_7GrdwqA7EeaBWuHqpT9Ygg" bitSet="393231"/>
     </domain>
   </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_Ntyi0KA8EeaBWuHqpT9Ygg" name="my" visibility="800">
+    <domain uuid="_Ntyi0aA8EeaBWuHqpT9Ygg" name="local" visibility="300">
+      <typeSet uuid="_Ntyi0qA8EeaBWuHqpT9Ygg" bitSet="393231"/>
+    </domain>
+  </variables>
   <cursorTwoD uuid="_5hDdIFc7EeWo-40Qyxiobw" name="Cursor3" twoDElementsColor="_c3-j4Fc7EeWo-40Qyxiobw _f9pUUFc7EeWo-40Qyxiobw">
     <onColor href="../product_model.xml#N65557"/>
   </cursorTwoD>
